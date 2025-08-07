@@ -13,7 +13,7 @@ public class BankManagementSystem {
 
 	private static final String URL = "jdbc:mysql://localhost:3306/mini_project1";
 	private static final String USER = "root";
-	private static final String PASSWORD = "Siddhi#19";
+	private static final String PASSWORD = "root";
 	private Connection connection;
 	private final Scanner scanner = new Scanner(System.in);
 
